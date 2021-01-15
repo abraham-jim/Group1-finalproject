@@ -19,7 +19,7 @@ body {
 }
 /* Banner Section */
 .banner {
-  background-image: url('images/Adupic.png');
+  background-image: url('/images/Adupic.png');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
